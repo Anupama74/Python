@@ -1,0 +1,102 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec 22 18:09:43 2016
+
+@author: studentas
+"""
+import numpy as np
+import pandas as pd
+import scipy.stats as stats
+import matplotlib.pyplot as plt
+from statsmodels.formula.api import ols
+from statsmodels.stats.anova import anova_lm
+
+sFile = 'AirQualityUCI.csv' #nuskaito faila
+Data = pd.read_table(sFile, sep =';')
+C6H6 = Data['C6H6(GT)']
+CO= Data['CO(GT)']
+Date= Data['Date']    #nuskaito stulpeli data
+
+N = len(Date) 
+Year = []; #sukure tuscius masyvus
+Month = [];
+Day = [];
+for i in range(N):
+    day, month, year = Date[i].split('/') #isskaido
+    Day.append(day)
+    Month.append(np.int32(month))
+    Year.append(np.int32(year))
+
+Years = np.unique(Year)
+Month = np.array(Month)
+
+
+i = 0;
+MeanC6H6 = []
+for year in Years:
+    mask = np.int32(Year) == np.int32(year)
+    C6H6_of_year = C6H6[mask]
+    Month_of_year = Month[mask]
+    Months = np.unique(Month_of_year)
+    for month in Months:
+        mask = (Month_of_year) == (month)
+        print('Metai %s Menuo %s' %(year,month) )
+        C6H6_of_month = C6H6_of_year[mask]
+        mask = C6H6_of_month >0
+        meanC6H6 = np.mean(C6H6_of_month[mask])
+        print('Menesio vidurkis %f' %(meanC6H6))
+        MeanC6H6.append(meanC6H6)
+        
+plt.plot(MeanC6H6, '*')   #2 punktas
+
+mask1 = C6H6 >0
+mask2 = CO>0
+mask = mask1 & mask2
+
+C6H6 = C6H6[mask]
+CO = CO[mask]
+
+plt.figure(2)
+
+plt.plot (C6H6, CO, '*')
+p = np.polyfit(C6H6, CO, 1)
+print ('p=', p)
+CO_fitted_1 = np.polyval(p, C6H6)
+plt.plot(C6H6,CO_fitted_1, 'r' )
+var_resid = np.sum(np.power(CO-CO_fitted_1, 2))/(len(CO)-2)
+
+#3 punktas
+
+C6H6byMonth = {}
+k=0
+for year in Years:
+    mask = np.int32(Year) == np.int32(year)
+    C6H6_of_year = C6H6[mask]
+    Month_of_year = Month[mask]
+    Months = np.unique(Month_of_year)
+    for month in Months:
+        mask = (Month_of_year) == (month)
+        print('Metai %s Menuo %s' %(year,month) )
+        C6H6_of_month = C6H6_of_year[mask]
+        mask = C6H6_of_month >0
+        C6H6byMonth[k] = C6H6_of_month[mask]
+        k = k + 1
+        
+[F, p] = stats.f_oneway(C6H6byMonth[0], C6H6byMonth[1],  C6H6byMonth[2], 
+               C6H6byMonth[3], C6H6byMonth[4],  C6H6byMonth[5],
+               C6H6byMonth[6], C6H6byMonth[7],  C6H6byMonth[8])
+
+#4 punktas
+C6H6 = C6H6[:7109]
+Month = Month[:7109]
+Day = Day[:7109]
+data = np.zeros( (7109,3), dtype = np.float64)
+data[:,0] = C6H6
+data[:,1] = Month
+data[:,2] = Day
+df = pd.DataFrame(data, columns=['C6H6', 'Month', 'Day'])
+formula = 'C6H6 ~ C(Month) + C(Day) + C(Month):C(Day)'
+lm = ols(formula, df).fit()
+print(anova_lm(lm))
+#5 punktas
+stats.ttest_ind(C6H6byMonth[6], C6H6byMonth[5])
