@@ -1,0 +1,253 @@
+Game ID,Team 1,Team 2,City,DayOfWeek,DateOfGame,TimeOfGame,AvgWindSpeed,AvgHumidity,"Inn 1 Team 1 NOP R>25,SR>125","Inn 1 Team 1 NOP R<25, SR>125",Inn 1 Team 1 Total 4s,Inn 1 Team 1 Total 6s,Inn 1 Team 1 Max Strike Rate_ALLBatsmen,Inn 1 Team 2 NoP fast bowlers,Inn 1 Team 2 NoP Spinners,Inn 1 Team 2 wickets taken_catches_runout,Inn1 Team 2 wickets taken_ bowled _lbw_caught by keeper_stumping,Inn 1 Team 2 Extras conceded in_wides_No Balls,"Inn 2 Team 2 NOP R>25,SR>125","Inn 2 Team 2 NOP R<25, SR>125",Inn 2 Team 2 Total 4s,Inn 2 Team 2 Total 6s,Inn 2 Team 2 Max Strike Rate_ALLBatsmen,Inn 2 Team 1 NoP fast bowlers,Inn 2 Team 1 NoP Spinners,Inn 2 Team 1 wickets taken_catches_runout,Inn2 Team 1 wickets taken_ bowled _lbw_caught by keeper_stumping,Inn 2 Team 1 Extras conceded in_wides_No Balls,"Team won(team 1=1, team 2=0)"
+1,Koramangala Traffic Jammers,Whitefield Water Loggers ,Whitefield,1,01-01-12,20.00.00,6,0.49,1,1,15,14,216.43,4,2,3,0,9,0,0,3,3,120,5,0,6,4,11,1
+2,Electronic City Power Savers,Silkboard Slow Movers,Silkboard,2,01-02-12,17.00.00,7,0.44,3,2,20,16,246.15,5,2,1,4,4,2,2,18,9,215.15,4,1,4,0,5,1
+3,Indranagar Pub Watchers,Sarjapur Water Tankers,Sarjapur,3,01-03-12,20.30.00,11,0.23,2,2,13,3,200,4,1,4,4,3,2,1,18,1,300,3,3,0,1,10,0
+4,Bellandur Froth Fighters,Koramangala Traffic Jammers,Koramangala,4,01-04-12,16.00.00,6,0.61,0,2,6,6,140,3,3,7,3,6,0,0,5,4,100,4,2,3,2,16,0
+5,Marathalli Chokers ,Whitefield Water Loggers ,Marathalli,5,01-05-12,20.00.00,6,0.56,3,1,18,5,233.33,5,1,4,2,3,1,3,15,6,205.26,4,2,4,1,5,0
+6,Silkboard Slow Movers,Indranagar Pub Watchers,Indranagar,6,01-06-12,20.00.00,11,0.19,1,2,18,7,250,4,3,2,6,3,2,2,17,7,155.1,5,1,2,2,10,0
+7,Bellandur Froth Fighters,Sarjapur Water Tankers,Bellandur,7,01-07-12,20.00.00,8,0.2,1,2,12,6,200,5,0,4,4,2,1,1,15,6,229.26,3,3,0,1,7,0
+8,Electronic City Power Savers,Marathalli Chokers ,Electronic City,1,01-08-12,20.00.00,5,0.73,3,3,24,6,250,6,2,3,2,11,2,3,19,8,225,4,1,5,2,8,1
+9,Bellandur Froth Fighters,Indranagar Pub Watchers,Bellandur,2,01-09-12,20.00.00,8,0.2,1,3,24,9,250,4,3,3,2,6,3,3,18,14,244.44,3,3,5,2,3,0
+10,Silkboard Slow Movers,Marathalli Chokers ,Silkboard,3,01-10-12,20.00.00,10,0.52,1,5,18,5,200,5,1,8,2,5,0,2,12,4,170,4,1,5,3,6,1
+11,Koramangala Traffic Jammers,Electronic City Power Savers,Electronic City,4,01-11-12,16.00.00,4,0.68,2,3,14,4,200,4,1,8,1,6,2,0,12,5,159.25,4,3,1,0,13,0
+12,Whitefield Water Loggers ,Indranagar Pub Watchers,Whitefield,5,01-12-12,20.00.00,7,0.88,1,0,12,7,220,4,2,6,2,4,1,1,22,2,175,4,2,1,2,2,0
+13,Sarjapur Water Tankers,Silkboard Slow Movers,Silkboard,6,01-13-2012,16.00.00,8,0.47,0,3,18,2,171.42,4,2,4,4,6,2,2,19,3,200,5,1,2,4,6,0
+14,Marathalli Chokers ,Bellandur Froth Fighters,Marathalli,7,01-14-2012,20.00.00,8,0.73,2,0,14,5,188.88,4,2,4,3,5,2,0,13,11,231.91,5,2,0,0,4,0
+15,Electronic City Power Savers,Whitefield Water Loggers ,Whitefield,1,01-15-2012,20.00.00,13,0.59,3,1,17,8,216.66,5,0,4,1,3,2,3,14,5,171.42,5,0,6,4,6,1
+16,Koramangala Traffic Jammers,Marathalli Chokers ,Koramangala,2,01-16-2012,20.00.00,10,0.7,2,2,15,3,200,5,1,6,2,7,0,1,17,2,180,5,2,1,2,10,0
+17,Sarjapur Water Tankers,Whitefield Water Loggers ,Sarjapur,3,01-17-2012,20.00.00,5,0.19,2,3,21,5,200,6,1,3,2,2,3,0,16,7,193.33,4,3,4,1,1,1
+18,Indranagar Pub Watchers,Koramangala Traffic Jammers,Indranagar,4,01-18-2012,16.00.00,19,0.17,3,0,22,5,176.47,6,1,3,4,7,2,1,8,6,153.84,4,2,6,4,7,1
+19,Bellandur Froth Fighters,Silkboard Slow Movers,Bellandur,5,01-19-2012,20.00.00,6,0.18,2,1,19,3,185.71,4,1,6,2,2,2,1,21,2,195.65,4,2,3,0,4,0
+20,Electronic City Power Savers,Sarjapur Water Tankers,Electronic City,6,01-20-2012,20.00.00,8,0.5,2,2,17,5,220,5,2,5,1,7,2,0,16,5,173.17,4,1,1,1,4,0
+21,Whitefield Water Loggers ,Bellandur Froth Fighters,Whitefield,7,01-21-2012,16.00.00,14,0.58,2,3,15,4,200,4,2,4,4,2,1,1,15,5,242.85,4,1,4,2,2,1
+22,Silkboard Slow Movers,Koramangala Traffic Jammers,Silkboard,1,01-22-2012,20.00.00,4,0.44,1,4,22,4,300,4,2,3,3,5,2,0,9,9,184.37,5,1,3,3,6,1
+23,Marathalli Chokers ,Sarjapur Water Tankers,Marathalli,2,01-23-2012,16.00.00,9,0.67,2,1,14,8,220,5,2,5,3,4,1,0,9,5,200,5,2,9,1,1,1
+24,Electronic City Power Savers,Indranagar Pub Watchers,Indranagar,3,01-24-2012,20.00.00,18,0.16,1,0,12,1,127.27,4,2,5,5,2,0,2,10,2,175,3,2,2,0,15,0
+25,Whitefield Water Loggers ,Silkboard Slow Movers,Whitefield,4,01-25-2012,20.00.00,15,0.49,1,1,16,1,400,5,1,5,5,9,0,0,12,3,125,4,1,1,3,7,0
+26,Electronic City Power Savers,Bellandur Froth Fighters,Electronic City,5,01-26-2012,20.00.00,8,0.62,2,2,12,5,250,4,2,6,1,4,1,2,15,7,333.33,4,1,3,0,4,0
+27,Indranagar Pub Watchers,Marathalli Chokers ,Marathalli,6,01-27-2012,20.00.00,8,0.65,1,0,9,2,160,5,1,2,8,5,1,0,7,3,161.9,4,1,2,1,10,0
+28,Sarjapur Water Tankers,Electronic City Power Savers,Sarjapur,7,01-28-2012,16.00.00,6,0.22,2,3,22,3,250,5,1,3,2,6,3,2,20,5,260,4,2,6,0,6,0
+29,Koramangala Traffic Jammers,Whitefield Water Loggers ,Koramangala,1,01-29-2012,20.00.00,4,0.73,1,3,12,5,300,4,1,4,3,2,1,2,15,2,200,5,1,3,1,3,1
+30,Bellandur Froth Fighters,Indranagar Pub Watchers,Indranagar,2,01-30-2012,20.00.00,19,0.39,0,1,15,3,209.09,4,2,4,4,2,1,1,16,2,250,4,3,2,0,10,0
+31,Electronic City Power Savers,Silkboard Slow Movers,Electronic City,3,01-31-2012,20.00.00,7,0.52,3,1,14,7,200,4,2,4,0,11,2,3,8,10,222.22,5,1,6,3,2,1
+32,Koramangala Traffic Jammers,Bellandur Froth Fighters,Bellandur,4,02-01-12,16.00.00,10,0.28,2,2,22,8,466.66,5,2,3,1,4,2,3,16,8,169.04,5,1,5,2,8,1
+33,Sarjapur Water Tankers,Indranagar Pub Watchers,Indranagar,5,02-02-12,20.00.00,10,0.44,2,0,10,5,243.75,4,1,4,3,4,1,1,13,6,200,4,2,4,3,8,0
+34,Whitefield Water Loggers ,Silkboard Slow Movers,Silkboard,6,02-03-12,20.00.00,6,0.43,0,1,13,2,262.5,4,2,3,4,8,3,0,12,7,145.09,5,1,1,0,4,0
+35,Koramangala Traffic Jammers,Sarjapur Water Tankers,Koramangala,7,02-04-12,20.00.00,4,0.69,0,1,10,3,175,4,2,5,1,8,0,3,13,0,142.85,4,1,6,4,7,1
+36,Electronic City Power Savers,Marathalli Chokers ,Marathalli,1,02-05-12,20.00.00,8,0.65,1,1,21,3,160.6,5,1,3,3,9,1,0,12,12,237.5,5,1,0,1,12,0
+37,Sarjapur Water Tankers,Bellandur Froth Fighters,Sarjapur,2,02-06-12,20.00.00,10,0.4,2,3,18,6,400,4,3,3,1,5,3,2,15,9,235.71,4,1,6,3,2,1
+38,Koramangala Traffic Jammers,Marathalli Chokers ,Marathalli,3,02-07-12,20.00.00,9,0.62,0,0,7,1,107.14,4,1,7,3,6,1,0,8,3,282.35,2,0,1,1,5,0
+39,Indranagar Pub Watchers,Whitefield Water Loggers ,Indranagar,4,02-08-12,16.00.00,22,0.32,2,0,21,3,164.28,5,1,1,0,19,1,0,10,6,208.33,4,3,7,2,6,1
+40,Sarjapur Water Tankers,Silkboard Slow Movers,Sarjapur,5,02-09-12,20.00.00,15,0.34,2,2,10,6,196.15,4,2,3,1,8,1,1,4,8,287.5,4,2,3,0,2,0
+41,Koramangala Traffic Jammers,Electronic City Power Savers,Koramangala,6,02-10-12,16.00.00,7,0.63,1,1,15,3,166.66,4,1,1,4,4,1,0,8,0,160,3,0,0,0,3,0
+42,Marathalli Chokers ,Bellandur Froth Fighters,Bellandur,7,02-11-12,20.00.00,13,0.36,3,1,17,6,240,3,3,4,3,9,2,1,13,6,150,5,2,4,3,4,1
+43,Whitefield Water Loggers ,Sarjapur Water Tankers,Whitefield,1,02-12-12,20.00.00,11,0.68,1,1,14,6,400,5,1,4,3,9,2,2,19,3,247.36,5,1,3,2,5,0
+44,Koramangala Traffic Jammers,Indranagar Pub Watchers,Koramangala,2,02-13-2012,20.00.00,7,0.64,1,5,13,6,250,4,2,5,3,3,1,3,17,5,266.66,6,0,1,3,3,0
+45,Silkboard Slow Movers,Marathalli Chokers ,Marathalli,3,02-14-2012,16.00.00,12,0.65,2,1,18,8,180,4,2,3,1,9,2,3,17,6,250,4,2,9,1,10,1
+46,Whitefield Water Loggers ,Electronic City Power Savers,Electronic City,4,02-15-2012,20.00.00,7,0.57,0,2,14,1,200,4,1,3,5,1,0,0,10,2,112.5,5,1,7,1,10,1
+47,Koramangala Traffic Jammers,Sarjapur Water Tankers,Sarjapur,5,02-16-2012,20.00.00,12,0.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Bellandur Froth Fighters,Silkboard Slow Movers,Silkboard,6,02-17-2012,20.00.00,6,0.56,2,1,14,9,230,3,3,1,3,1,2,2,13,8,200,3,3,4,0,5,0
+49,Indranagar Pub Watchers,Electronic City Power Savers,Electronic City,7,02-18-2012,16.00.00,7,0.62,3,1,20,9,189.28,4,2,5,0,2,3,2,19,9,187.5,3,3,5,2,6,1
+50,Marathalli Chokers ,Sarjapur Water Tankers,Sarjapur,1,02-19-2012,20.00.00,8,0.55,2,1,18,7,200,4,1,6,2,8,1,3,20,6,300,4,1,3,2,1,0
+51,Bellandur Froth Fighters,Whitefield Water Loggers ,Bellandur,2,02-20-2012,16.00.00,8,0.54,2,2,15,7,216.66,5,1,6,4,10,3,1,19,7,385.71,4,2,4,1,0,0
+52,Silkboard Slow Movers,Koramangala Traffic Jammers,Koramangala,3,02-21-2012,20.00.00,3,0.82,3,2,17,5,175,4,2,2,4,10,1,2,17,9,218.18,4,2,3,4,4,0
+53,Marathalli Chokers ,Indranagar Pub Watchers,Indranagar,4,02-22-2012,20.00.00,8,0.4,0,1,14,1,300,4,2,3,4,7,1,0,11,2,137.93,6,1,4,1,6,0
+54,Bellandur Froth Fighters,Electronic City Power Savers,Bellandur,5,02-23-2012,20.00.00,6,0.49,1,1,13,3,250,4,1,6,2,7,2,1,16,3,155.55,4,2,2,1,8,0
+55,Whitefield Water Loggers ,Marathalli Chokers ,Whitefield,6,02-24-2012,16.00.00,6,0.88,1,2,11,2,135.29,5,0,6,3,11,1,0,10,6,145.94,4,1,1,0,11,0
+56,Silkboard Slow Movers,Indranagar Pub Watchers,Silkboard,7,02-25-2012,20.00.00,6,0.6,3,0,20,14,306.25,4,2,3,0,4,2,2,18,8,300,4,3,4,3,1,1
+57,Indranagar Pub Watchers,Sarjapur Water Tankers,Marathalli,1,02-26-2012,20.00.00,10,0.64,3,2,19,10,214.28,4,1,6,3,3,1,1,9,1,150,4,2,8,2,4,1
+58,Silkboard Slow Movers,Electronic City Power Savers,Marathalli,2,02-27-2012,20.00.00,11,0.63,1,1,11,2,135.29,4,1,3,5,2,1,0,13,4,161.76,4,2,1,0,4,0
+59,Electronic City Power Savers,Indranagar Pub Watchers,Marathalli,3,02-28-2012,20.15.00,10,0.65,2,1,9,7,300,4,2,3,2,4,3,2,12,5,147.36,4,1,5,2,7,0
+60,Marathalli Chokers ,Electronic City Power Savers,Whitefield,3,01-01-13,12.30.00,7,0.55,2,3,19,3,250,5,0,7,0,1,2,1,10,6,138.46,4,2,5,2,3,1
+61,Whitefield Water Loggers ,Indranagar Pub Watchers,Whitefield,4,01-02-13,17.10.00,7,0.55,1,2,15,2,400,4,2,3,5,2,0,0,1,2,110,4,1,7,3,8,1
+62,Silkboard Slow Movers,Sarjapur Water Tankers,Whitefield,5,01-03-13,12.30.00,7,0.61,1,4,5,7,180.95,4,1,6,1,4,1,0,6,3,237.5,4,1,0,0,3,0
+63,Koramangala Traffic Jammers,Bellandur Froth Fighters,Whitefield,6,01-04-13,18.50.00,7,0.61,0,2,7,4,233.33,4,1,5,5,1,1,0,11,4,165.38,5,2,2,0,1,0
+64,Electronic City Power Savers,Whitefield Water Loggers ,Silkboard,7,01-05-13,16.30.00,8,0.73,1,2,15,6,185.71,5,3,3,2,8,0,1,9,1,126.31,5,1,6,4,4,1
+65,Silkboard Slow Movers,Koramangala Traffic Jammers,Sarjapur,1,01-06-13,12.30.00,7,0.72,3,0,15,4,188.23,5,2,4,2,11,1,1,3,6,169.23,4,1,0,1,4,0
+66,Indranagar Pub Watchers,Marathalli Chokers ,Sarjapur,2,01-07-13,16.30.00,7,0.72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Bellandur Froth Fighters,Whitefield Water Loggers ,Whitefield,3,01-08-13,16.30.00,7,0.7,2,4,9,12,185.71,4,2,5,1,1,2,1,17,4,233.33,4,1,5,3,6,1
+68,Sarjapur Water Tankers,Electronic City Power Savers,Sarjapur,4,01-09-13,12.30.00,8,0.61,2,1,16,8,194.44,5,1,4,1,1,2,3,14,5,300,4,2,8,1,9,1
+69,Indranagar Pub Watchers,Koramangala Traffic Jammers,Whitefield,5,01-10-13,16.45.00,8,0.61,1,2,11,5,300,4,2,5,1,7,1,0,10,6,153.33,3,3,5,3,10,0
+70,Whitefield Water Loggers ,Silkboard Slow Movers,Sarjapur,6,01-11-13,16.30.00,10,0.5,3,2,16,5,185.71,5,2,6,3,3,3,0,10,7,176.47,5,2,3,0,9,0
+71,Bellandur Froth Fighters,Marathalli Chokers ,Sarjapur,7,01-12-13,12.30.00,10,0.46,3,0,12,7,175,4,2,4,5,5,1,2,10,7,250,4,3,3,4,7,1
+72,Koramangala Traffic Jammers,Electronic City Power Savers,Whitefield,1,01-13-2013,16.45.00,10,0.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,Whitefield Water Loggers ,Sarjapur Water Tankers,Silkboard,2,01-14-2013,12.30.00,8,0.49,2,2,8,5,200,3,2,4,3,6,1,3,10,4,176.92,4,2,2,2,4,0
+74,Silkboard Slow Movers,Indranagar Pub Watchers,Whitefield,3,01-15-2013,16.45.00,8,0.49,0,1,12,3,118.18,3,2,4,2,9,0,1,9,0,200,3,3,3,4,5,1
+75,Electronic City Power Savers,Bellandur Froth Fighters,Sarjapur,4,01-16-2013,12.30.00,7,0.6,2,2,16,6,185.71,4,3,5,1,7,1,1,13,7,240,5,2,2,2,8,0
+76,Marathalli Chokers ,Koramangala Traffic Jammers,Silkboard,5,01-17-2013,16.45.00,7,0.6,2,3,11,10,225,4,3,4,2,8,1,1,11,10,200,4,2,5,4,4,1
+77,Sarjapur Water Tankers,Indranagar Pub Watchers,Koramangala,6,01-18-2013,16.30.00,6,0.64,0,3,14,3,145.45,3,3,4,3,2,1,1,11,7,206.66,3,3,3,2,6,0
+78,Koramangala Traffic Jammers,Whitefield Water Loggers ,Sarjapur,7,01-19-2013,12.30.00,8,0.7,0,1,12,2,150,2,4,4,2,7,0,1,12,3,192.3,3,3,1,4,7,0
+79,Silkboard Slow Movers,Marathalli Chokers ,Sarjapur,1,01-20-2013,16.30.00,8,0.7,0,0,4,2,102.27,3,4,5,3,11,0,2,7,1,150,4,3,5,2,9,1
+80,Bellandur Froth Fighters,Sarjapur Water Tankers,Koramangala,2,01-21-2013,12.30.00,7,0.71,1,2,13,3,171.42,3,3,6,3,3,1,2,15,4,181.81,4,3,2,2,8,0
+81,Electronic City Power Savers,Indranagar Pub Watchers,Koramangala,3,01-22-2013,16.30.00,7,0.71,1,1,15,6,400,4,2,3,2,3,1,2,15,6,153.84,4,2,6,2,3,1
+82,Marathalli Chokers ,Koramangala Traffic Jammers,Marathalli,4,01-23-2013,12.30.00,7,0.74,1,0,8,6,140.54,4,3,4,2,7,0,2,10,3,200,3,2,3,3,7,1
+83,Whitefield Water Loggers ,Silkboard Slow Movers,Sarjapur,5,01-24-2013,16.45.00,7,0.74,1,2,13,5,184.21,3,3,6,3,4,1,3,11,4,147.05,3,3,5,2,3,1
+84,Bellandur Froth Fighters,Indranagar Pub Watchers,Silkboard,6,01-25-2013,12.30.00,6,0.68,1,1,11,5,136.66,3,4,4,1,4,1,1,12,5,171.42,4,3,5,2,4,0
+85,Electronic City Power Savers,Sarjapur Water Tankers,Indranagar,7,01-26-2013,16.45.00,6,0.68,3,3,15,5,162.5,4,2,9,1,5,2,2,15,4,167.74,4,3,3,5,1,1
+86,Koramangala Traffic Jammers,Silkboard Slow Movers,Silkboard,1,01-27-2013,12.30.00,6,0.67,1,2,16,3,162.79,3,3,2,1,4,1,0,13,4,147.05,5,3,3,1,8,0
+87,Marathalli Chokers ,Whitefield Water Loggers ,Indranagar,2,01-28-2013,16.45.00,6,0.67,1,0,13,3,145,4,2,3,1,4,1,0,14,4,157.14,4,3,1,0,7,0
+88,Electronic City Power Savers,Bellandur Froth Fighters,Marathalli,3,01-29-2013,16.30.00,6,0.7,3,0,14,7,168.42,5,2,3,0,5,1,0,6,6,213.04,3,3,6,4,3,1
+89,Indranagar Pub Watchers,Silkboard Slow Movers,Sarjapur,4,01-30-2013,12.30.00,7,0.76,3,2,25,8,275,3,4,4,0,4,1,0,11,4,129.72,2,4,5,3,13,1
+90,Koramangala Traffic Jammers,Sarjapur Water Tankers,Sarjapur,5,01-31-2013,16.30.00,7,0.76,1,0,14,4,154.16,4,1,2,1,4,1,0,17,2,156.52,4,2,1,0,7,0
+91,Bellandur Froth Fighters,Marathalli Chokers ,Koramangala,6,02-01-13,16.30.00,6,0.72,1,2,8,6,164.7,4,2,3,3,4,1,1,11,3,157.14,6,1,3,5,1,1
+92,Whitefield Water Loggers ,Indranagar Pub Watchers,Koramangala,7,02-02-13,12.30.00,9,0.64,0,2,6,3,175,3,4,5,5,5,1,0,10,3,136.84,4,2,2,1,3,0
+93,Electronic City Power Savers,Silkboard Slow Movers,Koramangala,1,02-03-13,16.30.00,9,0.64,3,0,19,9,207.4,4,2,3,0,1,3,0,12,8,200,4,3,2,1,3,1
+94,Marathalli Chokers ,Sarjapur Water Tankers,Marathalli,2,02-04-13,16.30.00,8,0.63,0,2,7,3,166.66,4,1,6,4,10,1,1,11,2,166.66,4,3,1,2,6,0
+95,Bellandur Froth Fighters,Silkboard Slow Movers,Bellandur,3,02-05-13,12.30.00,9,0.61,3,0,9,9,166.66,4,2,4,1,5,2,3,10,7,176.47,4,4,5,2,3,0
+96,Indranagar Pub Watchers,Electronic City Power Savers,Bellandur,4,02-06-13,16.30.00,9,0.61,1,2,11,5,190.9,4,3,3,4,2,1,0,14,4,143.9,2,4,1,2,8,0
+97,Marathalli Chokers ,Whitefield Water Loggers ,Silkboard,5,02-07-13,12.30.00,7,0.65,2,0,10,4,143.9,3,3,0,2,7,1,0,9,3,145.45,3,2,4,3,8,1
+98,Koramangala Traffic Jammers,Sarjapur Water Tankers,Indranagar,6,02-08-13,16.45.00,7,0.65,1,1,6,5,200,4,2,5,3,6,1,0,13,1,156.52,4,2,2,1,6,0
+99,Bellandur Froth Fighters,Indranagar Pub Watchers,Bellandur,7,02-09-13,16.30.00,8,0.68,3,4,8,8,233.33,3,4,4,3,1,0,0,10,1,114.28,3,3,5,5,3,1
+100,Koramangala Traffic Jammers,Whitefield Water Loggers ,Koramangala,1,02-10-13,12.30.00,8,0.72,2,1,17,5,200,4,2,1,3,4,1,1,15,7,245.45,3,3,4,0,8,0
+101,Silkboard Slow Movers,Marathalli Chokers ,Koramangala,2,02-11-13,16.30.00,8,0.72,1,1,10,3,186.95,5,3,7,2,14,1,0,12,4,141.37,3,3,1,1,6,0
+102,Sarjapur Water Tankers,Bellandur Froth Fighters,Sarjapur,3,02-12-13,16.30.00,8,0.77,2,1,16,6,205.55,4,2,7,0,11,2,1,13,7,193.93,4,2,5,5,5,1
+103,Electronic City Power Savers,Whitefield Water Loggers ,Sarjapur,4,02-13-2013,12.30.00,7,0.77,1,4,12,3,200,4,2,9,1,1,0,3,11,4,300,4,2,5,3,3,0
+104,Indranagar Pub Watchers,Marathalli Chokers ,Sarjapur,5,02-14-2013,16.30.00,7,0.77,2,1,16,3,131.25,3,4,6,1,4,2,0,10,2,194.44,2,4,6,4,15,1
+105,Sarjapur Water Tankers,Silkboard Slow Movers,Electronic City,6,02-15-2013,16.30.00,7,0.8,0,0,6,1,112.5,4,3,7,2,7,0,2,11,4,200,4,2,2,2,7,0
+106,Marathalli Chokers ,Electronic City Power Savers,Silkboard,7,02-16-2013,12.30.00,7,0.78,1,0,9,6,176.47,3,3,4,1,2,0,1,10,4,166.66,3,3,1,2,10,0
+107,Koramangala Traffic Jammers,Bellandur Froth Fighters,Indranagar,1,02-17-2013,16.45.00,7,0.78,1,2,11,6,252.94,3,3,5,0,4,3,1,14,6,246.15,2,3,4,0,4,0
+108,Silkboard Slow Movers,Bellandur Froth Fighters,Indranagar,2,02-18-2013,12.30.00,6,0.76,1,1,10,3,154.54,3,4,6,1,6,1,2,12,4,176.92,4,3,3,5,4,1
+109,Sarjapur Water Tankers,Indranagar Pub Watchers,Electronic City,3,02-19-2013,16.45.00,6,0.76,1,1,11,2,209.09,2,6,1,2,4,0,3,13,1,230,4,2,4,5,7,1
+110,Electronic City Power Savers,Koramangala Traffic Jammers,Koramangala,4,02-20-2013,16.30.00,5,0.74,2,1,16,6,210,3,4,3,0,13,2,1,17,8,192.3,3,3,1,2,1,0
+111,Sarjapur Water Tankers,Whitefield Water Loggers ,Indranagar,5,02-21-2013,16.30.00,6,0.76,1,2,8,1,200,4,2,5,2,3,0,0,8,5,208.33,4,2,2,1,2,0
+112,Indranagar Pub Watchers,Koramangala Traffic Jammers,Sarjapur,6,02-22-2013,12.30.00,6,0.77,0,2,7,3,183.33,5,1,4,5,3,0,1,9,2,225,2,4,4,2,2,0
+113,Electronic City Power Savers,Silkboard Slow Movers,Sarjapur,7,02-23-2013,16.30.00,6,0.77,1,1,11,2,140,4,2,6,3,2,0,1,5,1,140,3,3,5,3,3,1
+114,Marathalli Chokers ,Sarjapur Water Tankers,Koramangala,1,02-24-2013,12.30.00,7,0.75,1,4,18,2,171.42,4,1,3,5,12,1,3,17,6,325,3,3,3,3,9,0
+115,Whitefield Water Loggers ,Bellandur Froth Fighters,Koramangala,2,02-25-2013,16.30.00,7,0.75,1,2,13,7,211.11,4,2,3,1,1,1,2,10,5,200,4,2,5,1,6,1
+116,Sarjapur Water Tankers,Bellandur Froth Fighters,Koramangala,3,02-26-2013,16.30.00,6,0.74,2,1,13,4,200,3,3,5,3,5,1,1,15,6,242.85,3,3,2,2,6,0
+117,Electronic City Power Savers,Whitefield Water Loggers ,Indranagar,4,02-27-2013,16.30.00,7,0.74,2,1,11,4,136.84,3,2,3,2,3,1,3,16,4,141.66,4,3,1,3,2,0
+118,Bellandur Froth Fighters,Whitefield Water Loggers ,Indranagar,5,02-28-2013,16.30.00,8,0.75,1,1,9,4,180,3,2,3,3,6,2,0,10,5,152.38,3,3,4,5,1,1
+119,Koramangala Traffic Jammers,Bellandur Froth Fighters,Marathalli,4,01-01-14,20.00.00,8,0.49,2,1,11,8,144.44,4,2,4,0,7,1,1,11,4,157.14,4,2,6,1,7,1
+120,Marathalli Chokers ,Indranagar Pub Watchers,Marathalli,5,01-02-14,15.00.00,8,0.45,2,6,23,6,220,4,3,3,3,13,2,3,18,11,270.27,4,2,5,2,5,1
+121,Silkboard Slow Movers,Sarjapur Water Tankers,Silkboard,6,01-03-14,20.00.00,8,0.45,0,2,14,2,188.88,4,2,5,4,5,2,1,16,1,133.33,3,3,5,0,2,0
+122,Whitefield Water Loggers ,Koramangala Traffic Jammers,Koramangala,7,01-04-14,16.00.00,7,0.5,0,2,13,2,142.85,4,3,3,4,2,1,0,14,3,172.41,4,2,3,0,5,0
+123,Bellandur Froth Fighters,Electronic City Power Savers,Electronic City,1,01-05-14,20.00.00,7,0.5,1,2,18,8,223.52,4,2,3,1,11,2,4,7,10,200,4,3,4,5,3,1
+124,Indranagar Pub Watchers,Sarjapur Water Tankers,Whitefield,2,01-06-14,20.00.00,7,0.6,0,1,14,4,171.42,3,2,5,1,5,1,0,12,5,220.58,4,2,3,1,5,0
+125,Silkboard Slow Movers,Whitefield Water Loggers ,Whitefield,3,01-07-14,16.00.00,7,0.61,3,2,20,7,300,5,1,3,0,10,3,1,15,13,242.85,4,3,2,0,9,0
+126,Electronic City Power Savers,Koramangala Traffic Jammers,Koramangala,4,01-08-14,20.00.00,7,0.61,3,0,16,4,200,4,2,0,3,1,0,2,14,0,266.66,4,3,5,5,3,1
+127,Marathalli Chokers ,Sarjapur Water Tankers,Sarjapur,5,01-09-14,20.00.00,7,0.61,3,3,19,9,225,3,2,5,2,13,3,2,19,9,266.66,4,2,3,6,8,1
+128,Indranagar Pub Watchers,Whitefield Water Loggers ,Whitefield,6,01-10-14,20.00.00,6,0.55,0,0,5,2,108.33,4,1,4,6,5,2,0,14,1,140,3,1,0,0,7,0
+129,Sarjapur Water Tankers,Electronic City Power Savers,Sarjapur,7,01-11-14,16.00.00,6,0.51,2,3,21,5,233.33,4,3,5,1,6,2,1,17,11,233.33,4,2,4,1,8,0
+130,Bellandur Froth Fighters,Silkboard Slow Movers,Silkboard,1,01-12-14,20.00.00,6,0.51,2,3,13,7,275,3,3,5,2,1,1,3,18,5,240,3,3,6,2,2,1
+131,Indranagar Pub Watchers,Koramangala Traffic Jammers,Whitefield,2,01-13-2014,16.00.00,6,0.54,3,1,20,2,168.18,4,2,5,2,3,0,1,12,2,116,3,3,2,3,1,1
+132,Marathalli Chokers ,Whitefield Water Loggers ,Marathalli,3,01-14-2014,20.00.00,6,0.54,0,2,16,2,255.55,4,1,4,5,4,1,2,15,5,153.33,4,2,3,0,0,0
+133,Bellandur Froth Fighters,Sarjapur Water Tankers,Silkboard,4,01-15-2014,16.00.00,7,0.53,3,2,15,9,171.42,3,3,4,2,1,2,1,13,6,220,3,3,6,3,1,1
+134,Silkboard Slow Movers,Electronic City Power Savers,Electronic City,5,01-16-2014,20.00.00,7,0.53,1,2,14,3,200,4,3,5,3,2,1,1,9,5,137.5,3,3,2,5,8,0
+135,Koramangala Traffic Jammers,Marathalli Chokers ,Marathalli,6,01-17-2014,20.00.00,8,0.49,1,0,15,2,134.78,4,1,0,3,6,1,1,21,1,190.9,3,2,2,1,4,0
+136,Whitefield Water Loggers ,Electronic City Power Savers,Whitefield,7,01-18-2014,20.00.00,8,0.54,1,3,14,8,178.94,3,2,1,4,4,1,1,14,3,182.35,4,1,4,3,6,1
+137,Indranagar Pub Watchers,Silkboard Slow Movers,Silkboard,1,01-19-2014,20.00.00,6,0.6,3,2,21,3,187.5,4,2,4,1,7,2,0,13,4,223.07,3,3,8,2,4,1
+138,Sarjapur Water Tankers,Whitefield Water Loggers ,Whitefield,2,01-20-2014,16.00.00,5,0.67,3,1,15,5,235.71,4,1,4,0,7,2,2,15,3,165.21,4,1,5,4,5,1
+139,Electronic City Power Savers,Marathalli Chokers ,Marathalli,3,01-21-2014,20.00.00,5,0.67,1,1,18,3,166.66,4,1,0,2,10,2,2,17,6,222.22,4,2,1,4,10,0
+140,Bellandur Froth Fighters,Indranagar Pub Watchers,Whitefield,4,01-22-2014,20.00.00,7,0.64,1,3,8,6,200,3,4,7,2,7,2,0,11,9,214.7,3,3,1,1,7,0
+141,Koramangala Traffic Jammers,Silkboard Slow Movers,Silkboard,5,01-23-2014,20.00.00,8,0.6,1,2,20,3,172.72,5,1,4,1,10,0,3,13,3,157.14,4,3,3,3,5,1
+142,Indranagar Pub Watchers,Electronic City Power Savers,Whitefield,6,01-24-2014,16.00.00,8,0.58,2,4,15,7,187.5,3,3,8,0,2,2,1,11,6,233.33,3,3,5,1,3,1
+143,Marathalli Chokers ,Bellandur Froth Fighters,Marathalli,7,01-25-2014,20.00.00,8,0.58,2,2,24,3,272.22,3,3,3,4,9,2,1,9,6,168.75,5,1,7,3,4,1
+144,Sarjapur Water Tankers,Koramangala Traffic Jammers,Sarjapur,1,01-26-2014,20.00.00,7,0.6,1,2,15,7,400,4,3,1,3,4,1,2,11,3,142.85,5,1,4,5,6,1
+145,Silkboard Slow Movers,Marathalli Chokers ,Marathalli,2,01-27-2014,20.00.00,8,0.62,0,2,14,1,169.23,5,1,6,4,11,1,3,14,4,200,5,2,6,0,15,0
+146,Whitefield Water Loggers ,Electronic City Power Savers,Electronic City,3,01-28-2014,16.00.00,6,0.73,1,3,16,5,164.28,4,2,3,1,4,1,1,9,8,200,4,2,2,3,4,0
+147,Sarjapur Water Tankers,Indranagar Pub Watchers,Sarjapur,4,01-29-2014,20.00.00,6,0.73,1,3,17,6,200,3,3,5,1,9,1,3,9,6,192.85,4,3,6,4,3,1
+148,Koramangala Traffic Jammers,Bellandur Froth Fighters,Koramangala,5,01-30-2014,20.00.00,6,0.72,1,3,17,7,250,3,4,5,1,10,1,3,18,2,181.25,3,2,4,1,5,1
+149,Silkboard Slow Movers,Whitefield Water Loggers ,Silkboard,6,01-31-2014,20.00.00,5,0.7,3,1,20,3,320,4,2,4,1,8,2,2,17,4,275,4,3,2,2,7,0
+150,Electronic City Power Savers,Indranagar Pub Watchers,Electronic City,7,02-01-14,16.00.00,8,0.54,3,3,19,17,400,4,3,5,0,2,3,2,20,13,240,3,3,4,1,5,1
+151,Marathalli Chokers ,Bellandur Froth Fighters,Marathalli,1,02-02-14,20.00.00,8,0.54,3,1,16,5,210,3,3,2,3,5,0,2,8,1,135.71,5,1,6,4,4,1
+152,Koramangala Traffic Jammers,Silkboard Slow Movers,Koramangala,2,02-03-14,16.00.00,9,0.46,1,2,16,10,220,4,2,3,0,12,3,1,21,8,206.25,4,3,1,1,2,0
+153,Sarjapur Water Tankers,Whitefield Water Loggers ,Sarjapur,3,02-04-14,20.00.00,9,0.46,3,1,14,11,163.04,3,4,4,1,3,1,3,9,6,220,3,2,4,5,1,1
+154,Indranagar Pub Watchers,Bellandur Froth Fighters,Sarjapur,4,02-05-14,20.00.00,9,0.44,1,3,14,4,161.11,4,2,8,2,6,2,2,15,5,200,4,2,8,2,7,1
+155,Electronic City Power Savers,Marathalli Chokers ,Electronic City,5,02-06-14,20.00.00,8,0.48,2,1,14,2,172.22,6,1,3,1,16,2,0,11,3,143.47,3,3,5,4,9,1
+156,Silkboard Slow Movers,Indranagar Pub Watchers,Indranagar,6,02-07-14,16.00.00,8,0.48,2,2,13,4,175,3,3,5,1,7,1,1,20,5,193.02,4,3,1,0,7,0
+157,Koramangala Traffic Jammers,Sarjapur Water Tankers,Koramangala,7,02-08-14,20.00.00,8,0.48,3,0,17,6,190.47,4,2,1,2,6,2,1,16,4,200,4,2,5,3,4,1
+158,Whitefield Water Loggers ,Bellandur Froth Fighters,Whitefield,1,02-09-14,20.00.00,7,0.52,2,2,15,8,433.33,4,2,3,3,14,3,0,17,8,220.83,4,1,1,2,6,0
+159,Marathalli Chokers ,Silkboard Slow Movers,Silkboard,2,02-10-14,20.00.00,5,0.66,1,2,15,2,183.33,3,3,1,8,1,2,2,20,3,250,5,2,3,1,3,0
+160,Electronic City Power Savers,Bellandur Froth Fighters,Sarjapur,3,02-11-14,16.00.00,6,0.63,0,2,9,3,176.92,4,3,6,2,3,0,1,8,6,162.5,3,3,2,2,6,0
+161,Koramangala Traffic Jammers,Whitefield Water Loggers ,Whitefield,4,02-12-14,20.00.00,6,0.63,1,1,13,8,226.66,4,2,8,1,10,2,1,13,7,233.33,4,1,2,1,8,0
+162,Sarjapur Water Tankers,Silkboard Slow Movers,Sarjapur,5,02-13-2014,16.00.00,8,0.56,1,0,8,0,216.66,3,3,6,4,16,0,0,11,2,110,4,3,2,1,1,0
+163,Marathalli Chokers ,Indranagar Pub Watchers,Indranagar,6,02-14-2014,20.00.00,8,0.56,1,1,20,3,192.3,3,3,3,2,8,1,1,7,5,166.66,4,2,7,1,7,1
+164,Bellandur Froth Fighters,Whitefield Water Loggers ,Sarjapur,7,02-15-2014,20.00.00,8,0.54,1,2,11,5,150,4,2,3,3,5,2,1,9,3,170,3,2,5,5,9,1
+165,Marathalli Chokers ,Sarjapur Water Tankers,Marathalli,1,02-16-2014,16.00.00,6,0.63,2,1,14,7,346.15,4,2,3,1,5,1,1,11,2,206.66,4,2,4,3,2,1
+166,Koramangala Traffic Jammers,Electronic City Power Savers,Electronic City,2,02-17-2014,20.00.00,6,0.63,0,3,9,5,180,2,4,4,4,14,1,0,15,5,200,4,3,0,1,13,0
+167,Indranagar Pub Watchers,Whitefield Water Loggers ,Indranagar,3,02-18-2014,20.00.00,6,0.7,1,0,14,1,160,4,1,4,2,3,1,0,18,4,213.79,3,2,3,2,0,0
+168,Electronic City Power Savers,Sarjapur Water Tankers,Electronic City,4,02-19-2014,20.00.00,6,0.68,0,1,10,1,154.54,3,3,7,2,8,0,0,8,0,101.78,3,3,3,1,9,0
+169,Silkboard Slow Movers,Bellandur Froth Fighters,Koramangala,5,02-20-2014,20.00.00,6,0.63,2,0,23,4,150,4,3,2,1,5,2,3,17,7,200,4,2,2,3,7,0
+170,Marathalli Chokers ,Whitefield Water Loggers ,Whitefield,6,02-21-2014,16.00.00,6,0.66,2,2,14,10,285.71,4,2,2,2,11,1,2,10,3,154.16,4,1,6,3,2,1
+171,Indranagar Pub Watchers,Koramangala Traffic Jammers,Koramangala,7,02-22-2014,20.00.00,6,0.66,1,2,14,2,200,4,1,6,3,2,1,0,17,3,150,3,4,1,1,7,0
+172,Silkboard Slow Movers,Electronic City Power Savers,Koramangala,1,02-23-2014,16.00.00,6,0.68,3,1,19,8,262.5,4,3,1,2,3,3,1,22,7,186.2,3,3,1,3,5,0
+173,Bellandur Froth Fighters,Sarjapur Water Tankers,Sarjapur,2,02-24-2014,20.00.00,6,0.68,1,1,12,6,180,4,2,5,2,1,0,2,10,4,137.5,4,2,4,3,3,1
+174,Marathalli Chokers ,Koramangala Traffic Jammers,Koramangala,3,02-25-2014,20.00.00,7,0.74,1,1,12,2,180,4,3,5,3,2,0,1,13,3,142.85,5,2,1,0,14,0
+175,Marathalli Chokers ,Whitefield Water Loggers ,Marathalli,4,02-26-2014,20.00.00,6,0.7,2,1,14,7,253.84,5,2,5,0,11,1,2,12,3,200,4,1,3,6,8,1
+176,Electronic City Power Savers,Bellandur Froth Fighters,Marathalli,5,02-27-2014,20.00.00,9,0.65,0,3,11,4,160,3,2,5,2,3,0,1,9,2,187.5,2,4,6,4,6,1
+177,Bellandur Froth Fighters,Whitefield Water Loggers ,Marathalli,6,02-28-2014,20.00.00,9,0.55,0,1,8,2,102.56,4,3,4,6,3,1,0,9,2,138.09,3,2,1,0,1,0
+178,Electronic City Power Savers,Marathalli Chokers ,Marathalli,7,03-01-14,20.30.00,8,0.61,2,4,11,8,250,4,1,4,1,8,1,1,12,5,270,2,4,7,2,5,1
+179,Electronic City Power Savers,Koramangala Traffic Jammers,Electronic City,5,01-01-15,20.00.00,5,0.65,1,2,14,4,250,3,3,2,2,2,2,1,14,3,180,2,4,4,3,7,1
+180,Bellandur Froth Fighters,Indranagar Pub Watchers,Bellandur,6,01-02-15,16.00.00,7,0.61,2,1,10,5,160,3,4,6,2,4,1,1,15,3,150,3,2,0,2,3,0
+181,Airport Flyers,Whitefield Water Loggers ,Marathalli,7,01-03-15,20.00.00,7,0.61,2,1,13,5,143.75,5,2,3,2,8,2,2,12,7,300,4,2,3,1,9,0
+182,Sarjapur Water Tankers,Marathalli Chokers ,Sarjapur,1,01-04-15,16.00.00,7,0.64,0,1,9,2,133.33,4,2,5,5,4,0,0,8,1,93.33,4,1,1,1,7,0
+183,Silkboard Slow Movers,Forum Fans,Marathalli,2,01-05-15,20.00.00,7,0.64,0,1,12,1,200,5,2,5,3,6,1,2,14,4,182.35,3,1,1,2,3,0
+184,Koramangala Traffic Jammers,Bellandur Froth Fighters,Koramangala,3,01-06-15,20.00.00,6,0.65,2,1,20,3,161.11,3,4,2,2,3,0,2,13,5,240,3,2,6,2,4,1
+185,Sarjapur Water Tankers,Indranagar Pub Watchers,Indranagar,4,01-07-15,16.00.00,7,0.62,1,2,14,6,200,2,3,6,0,5,0,2,13,6,180,3,2,1,3,3,0
+186,Whitefield Water Loggers ,Marathalli Chokers ,Whitefield,5,01-08-15,20.00.00,7,0.62,0,1,12,3,160,4,2,1,3,4,1,1,18,2,137.5,5,2,0,1,2,0
+187,Electronic City Power Savers,Silkboard Slow Movers,Silkboard,6,01-09-15,16.00.00,5,0.66,2,0,18,6,215,4,2,1,3,2,1,3,25,4,190.9,3,4,3,1,1,0
+188,Airport Flyers,Forum Fans,Marathalli,7,01-10-15,20.00.00,5,0.66,2,0,12,5,144.44,5,2,5,3,7,2,1,12,5,238.46,3,3,4,2,10,0
+189,Bellandur Froth Fighters,Whitefield Water Loggers ,Bellandur,1,01-11-15,20.00.00,6,0.7,2,1,17,6,174.28,3,3,3,2,5,1,0,12,3,166.66,4,1,2,7,5,1
+190,Indranagar Pub Watchers,Koramangala Traffic Jammers,Indranagar,2,01-12-15,16.00.00,5,0.73,2,1,10,5,169.23,4,3,2,2,12,1,0,18,3,170.45,2,5,1,0,4,0
+191,Marathalli Chokers ,Airport Flyers,Marathalli,3,01-13-2015,20.00.00,5,0.73,2,1,16,7,160.6,4,2,1,1,6,2,1,23,4,227.27,4,2,0,2,8,0
+192,Electronic City Power Savers,Whitefield Water Loggers ,Electronic City,4,01-14-2015,16.00.00,5,0.73,3,2,20,5,181.25,3,3,4,1,1,1,2,13,5,280,2,4,5,2,6,1
+193,Bellandur Froth Fighters,Silkboard Slow Movers,Bellandur,5,01-15-2015,20.00.00,5,0.73,1,2,17,3,214.28,6,1,5,3,2,2,1,15,8,159.57,4,2,2,0,7,0
+194,Forum Fans,Sarjapur Water Tankers,Marathalli,6,01-16-2015,16.00.00,6,0.69,2,0,13,11,222.22,4,2,5,0,6,3,2,16,9,325,5,2,4,3,9,0
+195,Indranagar Pub Watchers,Koramangala Traffic Jammers,Koramangala,7,01-17-2015,20.00.00,6,0.69,0,0,6,1,123.52,3,3,3,7,4,0,0,7,1,115.38,3,2,2,0,7,0
+196,Electronic City Power Savers,Airport Flyers,Marathalli,1,01-18-2015,20.00.00,6,0.7,1,1,15,3,225,4,2,1,3,2,2,3,12,7,266.66,3,2,3,0,2,0
+197,Bellandur Froth Fighters,Sarjapur Water Tankers,Sarjapur,2,01-19-2015,16.00.00,7,0.67,2,2,20,3,166.66,4,2,2,2,2,0,3,12,5,266.66,3,3,4,3,6,1
+198,Indranagar Pub Watchers,Whitefield Water Loggers ,Whitefield,3,01-20-2015,20.00.00,7,0.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,Forum Fans,Marathalli Chokers ,Marathalli,4,01-21-2015,16.00.00,5,0.68,0,1,13,2,144.44,5,1,6,4,6,0,0,10,1,111.11,5,2,3,0,2,0
+200,Airport Flyers,Koramangala Traffic Jammers,Koramangala,5,01-22-2015,20.00.00,5,0.68,1,0,11,5,161.11,2,3,2,5,3,0,2,7,3,266.66,2,3,5,4,3,1
+201,Silkboard Slow Movers,Indranagar Pub Watchers,Silkboard,6,01-23-2015,20.00.00,5,0.71,3,2,19,7,175,4,3,5,2,10,1,2,16,2,166.66,5,2,4,3,1,1
+202,Koramangala Traffic Jammers,Whitefield Water Loggers ,Koramangala,7,01-24-2015,16.00.00,5,0.69,2,2,15,4,191.66,3,4,5,0,13,2,0,19,8,185.45,3,4,0,1,5,0
+203,Marathalli Chokers ,Electronic City Power Savers,Marathalli,1,01-25-2015,20.00.00,5,0.69,1,0,14,7,181.25,3,3,3,1,12,1,1,15,4,147.91,5,2,8,1,9,1
+204,Sarjapur Water Tankers,Silkboard Slow Movers,Sarjapur,2,01-26-2015,20.00.00,5,0.67,3,1,20,12,237.5,5,2,4,0,14,2,3,21,11,206.52,5,1,5,1,3,1
+205,Marathalli Chokers ,Bellandur Froth Fighters,Bellandur,3,01-27-2015,16.00.00,6,0.65,3,0,18,5,164.7,3,2,3,1,2,0,1,14,1,166.66,5,1,5,3,7,1
+206,Airport Flyers,Indranagar Pub Watchers,Indranagar,4,01-28-2015,20.00.00,6,0.65,0,0,8,0,125,2,3,6,4,3,0,2,11,3,200,4,2,1,1,1,0
+207,Electronic City Power Savers,Forum Fans,Electronic City,5,01-29-2015,20.00.00,6,0.64,1,1,10,4,157.14,3,3,3,3,3,0,3,6,2,200,2,4,4,5,4,1
+208,Sarjapur Water Tankers,Whitefield Water Loggers ,Sarjapur,6,01-30-2015,20.00.00,8,0.62,1,2,13,5,185.71,3,3,2,4,9,2,2,17,5,250,5,1,4,3,9,0
+209,Forum Fans,Electronic City Power Savers,Marathalli,7,01-31-2015,16.00.00,6,0.7,2,1,11,6,158.33,3,3,5,1,4,2,0,9,5,143.18,5,2,2,0,6,0
+210,Bellandur Froth Fighters,Airport Flyers,Marathalli,1,02-01-15,20.00.00,6,0.7,1,1,13,1,160,5,1,4,3,5,0,0,9,0,95.65,4,1,2,8,4,1
+211,Koramangala Traffic Jammers,Sarjapur Water Tankers,Sarjapur,2,02-02-15,20.00.00,7,0.71,1,2,12,4,300,5,0,4,3,6,1,2,9,5,158.33,4,2,7,2,4,1
+212,Marathalli Chokers ,Indranagar Pub Watchers,Indranagar,3,02-03-15,16.00.00,9,0.68,0,1,4,2,142.85,2,4,2,6,4,0,0,7,2,115.38,4,2,1,2,1,0
+213,Whitefield Water Loggers ,Forum Fans,Whitefield,4,02-04-15,20.00.00,9,0.68,3,3,13,10,188.46,5,2,3,2,1,2,1,11,6,178.26,3,3,5,0,5,1
+214,Sarjapur Water Tankers,Airport Flyers,Marathalli,5,02-05-15,16.00.00,9,0.67,1,2,12,7,185.71,4,2,4,3,8,1,1,9,3,144.44,4,1,4,6,5,1
+215,Silkboard Slow Movers,Koramangala Traffic Jammers,Koramangala,6,02-06-15,20.00.00,9,0.67,0,1,11,1,133.33,3,3,4,2,5,1,0,13,1,186.66,3,4,2,0,11,0
+216,Forum Fans,Indranagar Pub Watchers,Indranagar,7,02-07-15,16.00.00,8,0.69,1,4,15,2,183.33,2,4,5,2,2,2,1,9,6,166.66,3,3,2,2,2,0
+217,Electronic City Power Savers,Bellandur Froth Fighters,Electronic City,1,02-08-15,20.00.00,8,0.69,1,3,13,6,316.66,3,3,3,2,4,1,1,10,5,186.66,2,3,5,3,3,1
+218,Marathalli Chokers ,Silkboard Slow Movers,Marathalli,2,02-09-15,16.00.00,7,0.72,1,3,17,4,181.81,3,3,4,1,2,1,1,12,2,155.55,5,2,5,3,1,1
+219,Sarjapur Water Tankers,Airport Flyers,Sarjapur,3,02-10-15,20.00.00,7,0.72,1,1,16,2,180,5,1,3,3,5,1,1,17,3,194.73,4,2,2,1,15,0
+220,Koramangala Traffic Jammers,Bellandur Froth Fighters,Bellandur,4,02-11-15,20.00.00,7,0.72,2,1,13,6,180.76,3,3,2,2,6,2,1,13,1,171.42,4,2,2,4,3,1
+221,Indranagar Pub Watchers,Electronic City Power Savers,Electronic City,5,02-12-15,16.00.00,7,0.73,1,2,18,0,142.85,2,3,6,0,2,1,1,12,2,143.63,3,4,1,1,4,0
+222,Marathalli Chokers ,Forum Fans,Marathalli,6,02-13-2015,20.00.00,7,0.73,2,1,13,6,300,5,1,6,1,4,2,0,8,7,130.76,4,2,6,1,6,1
+223,Airport Flyers,Koramangala Traffic Jammers,Marathalli,7,02-14-2015,16.00.00,6,0.74,2,1,13,4,184.21,4,3,5,0,5,1,1,15,2,130.76,5,1,5,2,2,1
+224,Bellandur Froth Fighters,Sarjapur Water Tankers,Bellandur,1,02-15-2015,20.00.00,6,0.74,2,1,18,4,177.41,5,2,4,1,6,1,2,17,7,233.33,3,2,2,4,9,0
+225,Whitefield Water Loggers ,Silkboard Slow Movers,Whitefield,2,02-16-2015,20.00.00,6,0.74,2,3,23,11,218.36,5,1,3,3,1,0,3,11,1,214.28,4,2,6,3,5,1
+226,Electronic City Power Savers,Koramangala Traffic Jammers,Koramangala,3,02-17-2015,16.00.00,6,0.75,1,0,6,2,131.7,5,2,4,0,3,0,0,7,0,125,2,3,1,1,3,0
+227,Marathalli Chokers ,Sarjapur Water Tankers,Marathalli,4,02-18-2015,20.00.00,6,0.75,3,0,21,5,160.86,4,1,3,1,4,1,1,20,1,137.03,4,2,5,5,8,1
+228,Airport Flyers,Whitefield Water Loggers ,Whitefield,5,02-19-2015,16.00.00,6,0.74,0,4,12,0,137.5,3,3,7,2,10,2,0,14,6,275,3,2,0,1,3,0
+229,Silkboard Slow Movers,Forum Fans,Silkboard,6,02-20-2015,20.00.00,6,0.74,0,0,12,1,114.28,5,2,6,2,0,1,0,14,2,233.33,4,1,3,2,7,0
+230,Electronic City Power Savers,Indranagar Pub Watchers,Indranagar,7,02-21-2015,20.00.00,6,0.75,4,0,19,6,215.78,2,4,1,2,6,1,2,11,1,144.44,3,3,7,3,5,1
+231,Bellandur Froth Fighters,Forum Fans,Bellandur,1,02-22-2015,16.00.00,6,0.72,0,4,11,2,183.33,5,1,4,4,1,1,1,17,5,187.5,3,3,0,4,3,0
+232,Silkboard Slow Movers,Marathalli Chokers ,Silkboard,2,02-23-2015,20.00.00,6,0.72,2,4,15,3,160,5,2,6,2,7,0,5,10,2,171.42,3,2,6,4,4,1
+233,Indranagar Pub Watchers,Whitefield Water Loggers ,Indranagar,3,02-24-2015,20.00.00,6,0.67,0,2,12,3,170,4,2,5,1,9,2,0,17,5,159.09,3,4,1,0,2,0
+234,Electronic City Power Savers,Sarjapur Water Tankers,Electronic City,4,02-25-2015,20.00.00,6,0.71,2,2,15,8,203.22,5,1,3,1,2,2,1,11,6,178.57,3,3,5,1,5,1
+235,Airport Flyers,Silkboard Slow Movers,Indranagar,5,02-26-2015,20.00.00,7,0.72,1,1,12,7,191.66,2,3,4,3,19,2,3,17,10,209.09,5,2,2,2,6,0
+236,Koramangala Traffic Jammers,Whitefield Water Loggers ,Whitefield,6,02-27-2015,16.00.00,7,0.73,1,0,7,3,150,5,1,3,1,2,1,1,13,2,316.66,4,1,5,1,6,0
+237,Bellandur Froth Fighters,Marathalli Chokers ,Marathalli,7,02-28-2015,20.00.00,7,0.73,1,1,9,4,300,5,1,3,3,3,0,4,8,4,184.61,2,3,4,4,8,1
+238,Silkboard Slow Movers,Sarjapur Water Tankers,Koramangala,1,03-01-15,16.00.00,8,0.71,2,1,19,6,164.28,5,1,4,2,7,0,3,13,6,266.66,4,1,4,4,8,1
+239,Indranagar Pub Watchers,Airport Flyers,Indranagar,2,03-02-15,20.00.00,8,0.71,0,1,9,4,153.84,5,2,5,5,2,2,2,9,7,241.66,2,2,1,1,4,0
+240,Forum Fans,Bellandur Froth Fighters,Marathalli,3,03-03-15,20.00.00,6,0.7,1,2,10,7,135.29,3,3,5,4,2,0,0,10,4,125,4,2,0,4,9,0
+241,Silkboard Slow Movers,Whitefield Water Loggers ,Koramangala,4,03-04-15,20.00.00,7,0.65,2,0,17,15,192.72,5,1,2,0,6,1,4,12,4,220,4,1,4,6,4,1
+242,Electronic City Power Savers,Airport Flyers,Electronic City,5,03-05-15,20.00.00,7,0.7,1,5,10,6,150,3,3,3,2,2,0,1,10,3,146.15,2,3,4,1,7,1
+243,Forum Fans,Koramangala Traffic Jammers,Marathalli,6,03-06-15,20.00.00,8,0.73,0,1,10,1,133.33,4,3,3,4,9,0,1,12,2,200,4,1,1,2,4,0
+244,Marathalli Chokers ,Indranagar Pub Watchers,Marathalli,7,03-07-15,20.00.00,11,0.74,0,1,13,1,220,2,5,3,2,3,2,0,15,6,189.36,5,1,0,0,2,0
+245,Bellandur Froth Fighters,Silkboard Slow Movers,Koramangala,1,03-08-15,16.00.00,10,0.76,2,0,19,4,166.66,4,2,2,0,8,1,2,12,4,185.71,2,3,8,2,2,1
+246,Sarjapur Water Tankers,Forum Fans,Sarjapur,2,03-09-15,20.00.00,10,0.76,0,0,0,0,190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,Electronic City Power Savers,Whitefield Water Loggers ,Whitefield,3,03-10-15,16.00.00,9,0.77,1,1,7,7,175,4,2,5,3,6,1,0,10,6,150,3,2,1,1,8,0
+248,Koramangala Traffic Jammers,Marathalli Chokers ,Koramangala,4,03-11-15,20.00.00,9,0.77,3,2,16,7,183.33,4,2,5,2,3,2,1,20,3,283.33,3,3,3,2,7,0
+249,Whitefield Water Loggers ,Electronic City Power Savers,Marathalli,5,03-12-15,20.00.00,6,0.71,2,1,13,7,161.11,3,3,2,2,5,3,0,14,10,280,4,2,2,2,6,0
+250,Koramangala Traffic Jammers,Marathalli Chokers ,Marathalli,6,03-13-2015,20.00.00,7,0.72,2,0,15,3,162.5,5,1,3,4,4,2,2,18,3,220,4,3,4,2,1,0
+251,Whitefield Water Loggers ,Marathalli Chokers ,Electronic City,7,03-14-2015,20.00.00,8,0.71,2,1,13,8,189.36,4,2,3,1,14,1,3,13,4,185.71,3,3,5,3,2,1
+252,Electronic City Power Savers,Whitefield Water Loggers ,Electronic City,1,03-15-2015,20.00.00,8,0.7,2,4,7,13,600,3,3,4,1,2,0,3,11,4,200,3,3,4,4,2,1
