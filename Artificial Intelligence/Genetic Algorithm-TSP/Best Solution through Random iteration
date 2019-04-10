@@ -1,0 +1,23 @@
+
+
+Generation : 0
+Best solution-City Route(Population):  [3, 9, 5, 2, 6, 7, 8, 0, 4, 10, 1]
+Best solution-DistanceSum(Fitness): 163
+Generation : 1
+Best solution-City Route(Population):  [3, 9, 5, 2, 6, 7, 8, 0, 4, 10, 1]
+Best solution-DistanceSum(Fitness): 163
+Generation : 2
+Best solution-City Route(Population):  [3, 5, 2, 9, 6, 7, 8, 0, 4, 10, 1]
+Best solution-DistanceSum(Fitness): 162
+Generation : 3
+Best solution-City Route(Population):  [3, 9, 2, 5, 6, 7, 8, 0, 4, 10, 1]
+Best solution-DistanceSum(Fitness): 159
+Generation : 4
+Best solution-City Route(Population):  [3, 9, 2, 5, 6, 7, 8, 0, 4, 10, 1]
+Best solution-DistanceSum(Fitness): 159
+Generation : 5
+Best solution-City Route(Population):  [3, 9, 2, 5, 6, 7, 8, 0, 4, 10, 1]
+Best solution-DistanceSum(Fitness): 159
+Generation : 6
+Best solution-City Route(Population):  [3, 9, 2, 5, 6, 7, 8, 0, 4, 10, 1]
+Best solution-DistanceSum(Fitness): 159
