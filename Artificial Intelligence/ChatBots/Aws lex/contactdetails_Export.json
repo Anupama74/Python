@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "contactdetails",
+    "version": "1",
+    "enumerationValues": [
+      {
+        "value": "email id",
+        "synonyms": []
+      },
+      {
+        "value": "contact",
+        "synonyms": []
+      },
+      {
+        "value": "contact details",
+        "synonyms": []
+      },
+      {
+        "value": "e mail",
+        "synonyms": []
+      },
+      {
+        "value": "contact detail",
+        "synonyms": []
+      },
+      {
+        "value": "email",
+        "synonyms": []
+      }
+    ],
+    "valueSelectionStrategy": "ORIGINAL_VALUE"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "toolsandtechies",
+    "version": "2",
+    "enumerationValues": [
+      {
+        "value": "technologies"
+      },
+      {
+        "value": "expertises"
+      },
+      {
+        "value": "coes"
+      },
+      {
+        "value": "softwares"
+      },
+      {
+        "value": "CoEs"
+      },
+      {
+        "value": "tools"
+      },
+      {
+        "value": "center of excellence"
+      },
+      {
+        "value": "tool"
+      },
+      {
+        "value": "applications"
+      },
+      {
+        "value": "platforms"
+      }
+    ],
+    "valueSelectionStrategy": "ORIGINAL_VALUE"
+  }
+}

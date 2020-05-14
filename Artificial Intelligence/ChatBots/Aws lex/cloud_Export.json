@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "cloud",
+    "version": "1",
+    "enumerationValues": [
+      {
+        "value": "cloud services",
+        "synonyms": []
+      },
+      {
+        "value": "Amazon Web Services",
+        "synonyms": []
+      },
+      {
+        "value": "google cloud platform",
+        "synonyms": []
+      },
+      {
+        "value": "cloud solution",
+        "synonyms": []
+      },
+      {
+        "value": "Google Cloud Platform",
+        "synonyms": []
+      },
+      {
+        "value": "amazon web services",
+        "synonyms": []
+      },
+      {
+        "value": "Amazon Web Service",
+        "synonyms": []
+      },
+      {
+        "value": "clouds",
+        "synonyms": []
+      },
+      {
+        "value": "microsoft azure cloud service",
+        "synonyms": []
+      },
+      {
+        "value": "cloud",
+        "synonyms": []
+      },
+      {
+        "value": "GCP",
+        "synonyms": []
+      },
+      {
+        "value": "cloud service",
+        "synonyms": []
+      },
+      {
+        "value": "microsoft azure cloud",
+        "synonyms": []
+      },
+      {
+        "value": "cloud computing",
+        "synonyms": []
+      },
+      {
+        "value": "AWS",
+        "synonyms": []
+      },
+      {
+        "value": "Azure cloud service",
+        "synonyms": []
+      }
+    ],
+    "valueSelectionStrategy": "ORIGINAL_VALUE"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "decisionscience",
+    "version": "3",
+    "enumerationValues": [
+      {
+        "value": "decision science"
+      },
+      {
+        "value": "python"
+      },
+      {
+        "value": "data analytics"
+      },
+      {
+        "value": "natural language processing"
+      },
+      {
+        "value": "data science solutions"
+      },
+      {
+        "value": "data science services"
+      },
+      {
+        "value": "predictive analytics"
+      },
+      {
+        "value": "machine learning"
+      },
+      {
+        "value": "text analytics"
+      },
+      {
+        "value": "analytics"
+      },
+      {
+        "value": "deep learning"
+      },
+      {
+        "value": "descriptive analytics"
+      },
+      {
+        "value": "NLP"
+      },
+      {
+        "value": "data science"
+      }
+    ],
+    "valueSelectionStrategy": "ORIGINAL_VALUE"
+  }
+}

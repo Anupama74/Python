@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "career",
+    "version": "2",
+    "enumerationValues": [
+      {
+        "value": "career"
+      },
+      {
+        "value": "work in liquintel"
+      },
+      {
+        "value": "career options"
+      },
+      {
+        "value": "hiring"
+      },
+      {
+        "value": "job opportunities"
+      },
+      {
+        "value": "career opportunity"
+      },
+      {
+        "value": "jobs"
+      },
+      {
+        "value": "positions"
+      },
+      {
+        "value": "job opportunity"
+      },
+      {
+        "value": "work at liquintel"
+      },
+      {
+        "value": "join liquintel"
+      },
+      {
+        "value": "careers"
+      },
+      {
+        "value": "career opportunities"
+      },
+      {
+        "value": "job"
+      }
+    ],
+    "valueSelectionStrategy": "ORIGINAL_VALUE"
+  }
+}

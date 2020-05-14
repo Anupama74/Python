@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "datmanagement",
+    "version": "3",
+    "enumerationValues": [
+      {
+        "value": "data services"
+      },
+      {
+        "value": "data"
+      },
+      {
+        "value": "data management strategy consulting"
+      },
+      {
+        "value": "data migration"
+      },
+      {
+        "value": "data quality management"
+      },
+      {
+        "value": "data integration"
+      },
+      {
+        "value": "master data management"
+      },
+      {
+        "value": "data solutions"
+      }
+    ],
+    "valueSelectionStrategy": "ORIGINAL_VALUE"
+  }
+}

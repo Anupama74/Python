@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "digitalexperience",
+    "version": "4",
+    "enumerationValues": [
+      {
+        "value": "digital"
+      },
+      {
+        "value": "digital solutions"
+      },
+      {
+        "value": "full stack development"
+      },
+      {
+        "value": "digital commerce"
+      },
+      {
+        "value": "digital experience"
+      },
+      {
+        "value": "digital experience strategy"
+      },
+      {
+        "value": "user interface development"
+      },
+      {
+        "value": "User Experience led Designs"
+      },
+      {
+        "value": "digital services"
+      },
+      {
+        "value": "Digital Content Management"
+      }
+    ],
+    "valueSelectionStrategy": "ORIGINAL_VALUE"
+  }
+}

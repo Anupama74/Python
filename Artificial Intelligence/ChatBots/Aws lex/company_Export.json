@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "company",
+    "version": "6",
+    "enumerationValues": [
+      {
+        "value": "Liquintel Techneo Labs",
+        "synonyms": [
+          "liquintel techneo labs private limited",
+          "liquintel techneo labs",
+          "liquintel techneo labs pvt lmt"
+        ]
+      },
+      {
+        "value": "company",
+        "synonyms": [
+          "company"
+        ]
+      },
+      {
+        "value": "Liquintel",
+        "synonyms": [
+          "liquintel",
+          "liquintel techneo"
+        ]
+      }
+    ],
+    "valueSelectionStrategy": "TOP_RESOLUTION"
+  }
+}
