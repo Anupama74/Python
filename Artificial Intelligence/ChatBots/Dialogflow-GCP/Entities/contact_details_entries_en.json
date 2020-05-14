@@ -1,0 +1,28 @@
+[
+  {
+    "value": "contact",
+    "synonyms": [
+      "contact",
+      "contact details"
+    ]
+  },
+  {
+    "value": "email",
+    "synonyms": [
+      "email",
+      "email address",
+      "email-id"
+    ]
+  },
+  {
+    "value": "phone number",
+    "synonyms": [
+      "call details",
+      "cell phone number",
+      "mobile details",
+      "mobile number",
+      "phone details",
+      "phone number"
+    ]
+  }
+]

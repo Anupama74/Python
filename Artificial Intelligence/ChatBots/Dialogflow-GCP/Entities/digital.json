@@ -1,0 +1,9 @@
+{
+  "id": "26b23cc7-271e-46aa-89e1-d768ca4e620e",
+  "name": "digital",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

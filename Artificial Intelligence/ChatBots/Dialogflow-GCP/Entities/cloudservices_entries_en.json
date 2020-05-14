@@ -1,0 +1,38 @@
+[
+  {
+    "value": "AWS",
+    "synonyms": [
+      "AWS",
+      "Amazon Web Services",
+      "Cloud analytics"
+    ]
+  },
+  {
+    "value": "GCP",
+    "synonyms": [
+      "GCP",
+      "Google analytics",
+      "Google cloud platform",
+      "google cloud services",
+      "google services"
+    ]
+  },
+  {
+    "value": "Microsoft Azure cloud services",
+    "synonyms": [
+      "Microsoft Azure",
+      "azure analytics",
+      "azure autoML",
+      "azure cloud",
+      "azure data cloud",
+      "microsoft azure cloud"
+    ]
+  },
+  {
+    "value": "cloud",
+    "synonyms": [
+      "cloud",
+      "cloud computing"
+    ]
+  }
+]

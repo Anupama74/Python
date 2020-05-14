@@ -1,0 +1,9 @@
+{
+  "id": "dd50c9a4-9d56-44b7-8772-c641055e7c77",
+  "name": "refer_company",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

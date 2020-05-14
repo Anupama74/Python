@@ -1,0 +1,9 @@
+{
+  "id": "4a1d7e67-fe3e-4acb-ba14-ab39dc7d9fc7",
+  "name": "tools",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

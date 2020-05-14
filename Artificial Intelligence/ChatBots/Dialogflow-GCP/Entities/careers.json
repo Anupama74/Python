@@ -1,0 +1,9 @@
+{
+  "id": "3f11bd5b-3fef-41c9-85ba-842a672aa13e",
+  "name": "careers",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

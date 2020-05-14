@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Analytics",
+    "synonyms": [
+      "descriptive analytics",
+      "predictive analytics",
+      "prescriptive analytics",
+      "text analytics"
+    ]
+  },
+  {
+    "value": "Natural language processing",
+    "synonyms": [
+      "NLP",
+      "Natural language processing"
+    ]
+  },
+  {
+    "value": "data  analytics",
+    "synonyms": [
+      "analytics",
+      "data  analytics"
+    ]
+  },
+  {
+    "value": "decision science",
+    "synonyms": [
+      "data science",
+      "decision",
+      "decision science"
+    ]
+  },
+  {
+    "value": "machine learning",
+    "synonyms": [
+      "DL",
+      "ML",
+      "deep learning",
+      "forecasting",
+      "machine learning",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "value": "programming language",
+    "synonyms": [
+      "R",
+      "programming languages",
+      "python"
+    ]
+  }
+]

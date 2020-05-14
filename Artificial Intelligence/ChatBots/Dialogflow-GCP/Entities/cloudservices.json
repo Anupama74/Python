@@ -1,0 +1,9 @@
+{
+  "id": "8767a6c5-bede-4dfa-8ab0-425f44442937",
+  "name": "cloudservices",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

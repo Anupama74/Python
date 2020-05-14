@@ -1,0 +1,20 @@
+[
+  {
+    "value": "company",
+    "synonyms": [
+      "company",
+      "you",
+      "your company"
+    ]
+  },
+  {
+    "value": "liquintel",
+    "synonyms": [
+      "liquintel",
+      "liquintel techneo",
+      "liquintel techneo labs",
+      "liquintel techneo labs private limited",
+      "liquintel techneo labs pvt lmt"
+    ]
+  }
+]

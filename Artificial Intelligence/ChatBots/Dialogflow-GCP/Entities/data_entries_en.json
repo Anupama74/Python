@@ -1,0 +1,45 @@
+[
+  {
+    "value": "daga integration",
+    "synonyms": [
+      "daga integration"
+    ]
+  },
+  {
+    "value": "data management",
+    "synonyms": [
+      "data management",
+      "data quality management",
+      "master data management",
+      "quality management"
+    ]
+  },
+  {
+    "value": "data migration",
+    "synonyms": [
+      "data migration",
+      "data storage systems",
+      "data transfer",
+      "data transferring"
+    ]
+  },
+  {
+    "value": "data services",
+    "synonyms": [
+      "data",
+      "data service",
+      "data services",
+      "data solution",
+      "data solutions"
+    ]
+  },
+  {
+    "value": "data warehouse",
+    "synonyms": [
+      "DOS",
+      "data lake",
+      "data warehouse",
+      "datamart"
+    ]
+  }
+]

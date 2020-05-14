@@ -1,0 +1,9 @@
+{
+  "id": "e0f34120-8ad5-441e-903f-0f48d07a462e",
+  "name": "decisionscience",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
