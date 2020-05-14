@@ -1,4 +1,5 @@
-Created Genetic Algorithm without using direct libraries in Jupyter notebook to solve Travelling salesman problem.
+I have wriiten Genetic algorithm from scratch without using any functional libraries in notebook to solve a np-hard combinatorial, travel sales man problem in Python.
+
 
 It is my own work: No copies, No other code included.
 
