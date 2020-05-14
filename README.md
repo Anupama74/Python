@@ -1,4 +1,4 @@
-# Python and DATASCIENCE
+# Python and Data Science
 
 Machine learning,
 Deep Learning,
